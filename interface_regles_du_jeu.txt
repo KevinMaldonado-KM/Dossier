@@ -1,0 +1,17 @@
+-----------------------------------------------------------
+|                                                         |
+|                      REGLES DU JEU                      |
+|                                                         |
+|                                                         |
+|       1 VS 1                        1 VS IA             |
+|                                                         |
+|  Attrapez le plus de           Ne vous faites pas       |
+|   pièces ou mangez         manger par les horribles     |
+|   votre adversaire          fantomes qui rodent, et     |
+|                             surtout récupérez toutes    |
+|                              les pièces avant eux       |
+|                                                         |
+|  [1] Jouer en 1 VS 1          [2] Jouer en 1 VS IA      |                                                         
+|                  [3] Retour Menu                        |
+|                                                         |
+----------------------------------------------------------
